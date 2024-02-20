@@ -1,4 +1,4 @@
-# for BackEnd 개발자
+# for BackEnd Developers
 > 
 # Github Profile 꾸미기
 - [Github Profile 꾸미기](https://blog.cowkite.com/blog/2102241544/)
